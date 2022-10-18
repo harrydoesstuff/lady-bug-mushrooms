@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lady-bug-mushrooms/static/css/main.a3bc1c3c.css",
+    "main.js": "/lady-bug-mushrooms/static/js/main.e18b0862.js",
+    "static/media/hero-image.jpg": "/lady-bug-mushrooms/static/media/hero-image.df89b81e1f61bb14fe0c.jpg",
+    "static/media/mushroomgod.jpeg": "/lady-bug-mushrooms/static/media/mushroomgod.d74d3e2468104bce2724.jpeg",
+    "static/media/mushroom1.jpeg": "/lady-bug-mushrooms/static/media/mushroom1.cbf382947c88b0f62052.jpeg",
+    "index.html": "/lady-bug-mushrooms/index.html",
+    "main.a3bc1c3c.css.map": "/lady-bug-mushrooms/static/css/main.a3bc1c3c.css.map",
+    "main.e18b0862.js.map": "/lady-bug-mushrooms/static/js/main.e18b0862.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3bc1c3c.css",
+    "static/js/main.e18b0862.js"
+  ]
+}
