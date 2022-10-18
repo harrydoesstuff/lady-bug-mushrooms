@@ -6,7 +6,7 @@ import Hero from "./components/Hero";
 function App() {
   return (
     <Fragment>
-      <Header />
+      {/* <Header /> */}
       <Hero />
     </Fragment>
   );
