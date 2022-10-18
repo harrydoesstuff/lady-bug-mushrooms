@@ -1,27 +1,31 @@
 import React from 'react';
 import ProductCard from './ProductCard';
+import mushroom1 from './productImages/mushroom1.jpeg';
+import mushroom2 from './productImages/mushroom2.jpeg';
+import mushroomgod from './productImages/mushroomgod.jpeg';
+
 
 const products = [
     {
         id: 1,
-        name: "Shoes",
-        description: "Please put your feet in me. I'm not spiky or mouldy I promise. Please",
+        name: "Mushroom",
+        description: "I'm a mushroom. You can eat me.",
         price: 120,
-        image: ""
+        image: mushroom1
     },
     {
         id: 2,
-        name: "Pants",
-        description: "You need me to hide your parts that need hiding. I won't touch them. I just need to hide them. I don't get any pleasure from this.",
+        name: "Also a mushroom",
+        description: "Ignore that first guy. I'm the only mushroom here. I'm a really fungi (lol get it?)",
         price: 79,
-        image: ""
+        image: mushroom2
     },
     {
         id: 3,
-        name: "Shirts",
-        description: "Once again. I promise I don't get pleasure from this. Now let me cover your chesticles. Please. I'm begging you.",
+        name: "Mushroom maker",
+        description: "Well to be honest, fuck both of those guys. I MAKE mushrooms. I AM GOD",
         price: 25,
-        image: ""
+        image: mushroomgod
     },
 ];
 

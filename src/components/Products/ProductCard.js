@@ -4,7 +4,7 @@ function ProductCard(props) {
     return (  
 
         <div className="card w-96 bg-base-100 shadow-xl">
-            {/* <figure><img src={props.image} alt="Shoes"/></figure> */}
+            <figure><img src={props.image} alt={props.name} className="min-h-full min-w-full"/></figure>
             <div className="card-body">
                 <h2 className="card-title">{props.name}</h2>
                 <p>{props.description}</p>
